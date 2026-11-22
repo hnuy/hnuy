@@ -9,7 +9,8 @@
 - Currently working at **Bitsoft** as a Full-Stack Developer
 - Experienced in delivering **end-to-end solutions**: from database design to cloud deployment
 - Passionate about **clean architecture**, **test-driven development**, and building systems that scale
-- Hands-on with **AI integration** and modern cloud-native deployments on AWS
+- Hands-on with **AI integration** (Claude Code, Claude API, OpenAI) and modern cloud-native deployments on AWS
+- Implementing **ISO/IEC 27001:2022**: built the company's ISMS portal, hardened AWS production, and run production changes under formal change management
 
 ---
 
@@ -39,9 +40,24 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
+**Security & AI**
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001:2022-0A66C2?style=flat-square)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM_%26_VPC-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?logo=falco&logoColor=white&style=flat-square)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white&style=flat-square)
+
 ---
 
 ## Featured Projects
+
+### ISO 27001 ISMS Portal
+> In-house system the company runs its ISO/IEC 27001:2022 ISMS on
+
+- **Tech:** React 19, NestJS, TypeScript, MySQL, AWS S3, Docker
+- **Features:** Risk register with residual risk, SoA (93 Annex A controls), asset register, change management with approval trail, suppliers, BCP, access reviews
+- **Related work:** Jenkins release gate tied to change holds, AWS VPC/IAM hardening, immutable S3 Object Lock backups with tested restores
+
+---
 
 ### ERP System (Enterprise Resource Planning)
 > Full-stack ERP platform for enterprise business operations
