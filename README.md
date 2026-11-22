@@ -1,5 +1,7 @@
 # Hi, I'm Prakrit Yoophoon 👋
 
+🇹🇭 [ภาษาไทย](README.th.md) · 📄 [Resume](https://hnuy.github.io)
+
 **Full-Stack & DevSecOps Engineer** with 6+ years of experience building enterprise-grade systems — ERP, WMS, HR platforms, and real-time web applications.
 
 ---
