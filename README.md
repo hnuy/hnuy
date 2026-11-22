@@ -1,6 +1,6 @@
 # Hi, I'm Prakrit Yoophoon 👋
 
-**Full-Stack Developer** with 4–5 years of experience building enterprise-grade systems — ERP, WMS, HR platforms, and real-time web applications.
+**Full-Stack & DevSecOps Engineer** with 6+ years of experience building enterprise-grade systems — ERP, WMS, HR platforms, and real-time web applications.
 
 ---
 
